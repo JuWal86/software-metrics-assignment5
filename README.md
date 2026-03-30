@@ -17,7 +17,7 @@ pip install -e .
 cp .env.example .env
 
 2) Run
-```bash
+
 Terminal 1:
 bash scripts/run_daily.sh
 
